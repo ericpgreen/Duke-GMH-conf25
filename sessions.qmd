@@ -1,0 +1,79 @@
+---
+title: "Sessions"
+---
+
+### Global Mental Health at Duke: Achievements and Opportunities
+
++:----------+
+| [Eve Puffer](https://sites.globalhealth.duke.edu/evepuffer/), Director, Duke Center for Global Mental Health (DCGMH) |
++------+
+| [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH |
++------+
+
+Some text
+
+### Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health
+
++:----------+
+| Moderator: [Brandon Knettel](https://globalhealth.duke.edu/people/knettel-brandon), Associate Director, DCGMH |
++------+
+| Panelist: [Kate Whetten](https://globalhealth.duke.edu/people/whetten-kathryn), Sanford School of Public Policy |
++------+
+| Panelist: [Krishna Udayakumar](https://dukeghic.org/people/krishna-udayakumar/), Duke Global Health Innovation Center |
++------+
+| Panelist: [Luke Smith](https://elfuturo-nc.org/people/david-lucas-luke-smith/), El Futuro |
++------+
+| [Charles Muiruri](https://globalhealth.duke.edu/people/muiruri-charles), Population Health Sciences |
++------+
+
+Some text
+
+### Faculty Research Spotlights
+
+#### Christine Gray, DGHI, Center for Health Policy and Inequalities Research
+
+*Addressing trauma in orphaned children in Kenya: From descriptive epidemiology to implementation science* |
+
+Abstract
+
+#### Deborah Jenson, Department of Romance Studies
+
+*The birth of outpatient psychiatry in Louis Mars’ Haiti: Utopia and dystopia*
+
+Abstract
+
+#### Irene Felsman, Duke University School of Nursing and Thakur Mishra, Church World Service, Refugee Wellness Program Manager
+
+*Therapeutic storytelling with culturally diverse newcomer communities*
+
+Abstract
+
+#### David Eagle, Department of Sociology
+
+*When does difference do damage? Evidence from a study of clergy*
+
+Abstract
+
+### Research Symposia #1
+
+#### Features and challenges in the design and analysis of trials in global mental health research
+
+Abstract
+
+#### Centering adolescent mental health: Intervention research to maximize resonance and impact
+
+Abstract
+
+#### Understanding alcohol use and harm-reduction interventions in Northern Tanzania
+
+Abstract
+
+### Research Symposia #2
+
+#### Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South
+
+Abstract
+
+#### Child and caregiver mental health: Global perspectives on risk and resilience
+
+Abstract
