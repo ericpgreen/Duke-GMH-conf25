@@ -34,7 +34,7 @@ Some text
 
 *Addressing trauma in orphaned children in Kenya: From descriptive epidemiology to implementation science* |
 
-Abstract
+[Abstract]({#gray})
 
 #### [Deborah Jenson](https://sites.fhi.duke.edu/healthhumanitieslab/team/deborah-jenson/), Department of Romance Studies
 
