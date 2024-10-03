@@ -2,7 +2,7 @@
 title: "Sessions"
 ---
 
-### Global Mental Health at Duke: Achievements and Opportunities
+## Global Mental Health at Duke: Achievements and Opportunities
 
 Maeve: Need short summary
 
@@ -12,7 +12,7 @@ Maeve: Need short summary
 | [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH |
 +------+
 
-### Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health
+## Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health
 
 Maeve: Need short summary
 
@@ -28,7 +28,7 @@ Maeve: Need short summary
 | Panelist: [Charles Muiruri](https://globalhealth.duke.edu/people/muiruri-charles), Population Health Sciences |
 +------+
 
-### Faculty Research Spotlights
+## Faculty Research Spotlights
 
 Maeve: Need short summary
 
@@ -39,9 +39,9 @@ Maeve: Need short summary
 | [Irene Felsman](https://globalhealth.duke.edu/people/felsman-irene), Duke University School of Nursing and [Thakur Mishra](https://cwsglobal.org/), Church World Service, Refugee Wellness Program Manager | Therapeutic storytelling with culturally diverse newcomer communities |
 | [David Eagle](https://globalhealth.duke.edu/people/eagle-david), Department of Sociology | When does difference do damage? Evidence from a study of clergy |
 
-### Research Symposia Round 1
+## Research Symposia Round 1
 
-#### Features and challenges in the design and analysis of trials in global mental health research
+### Features and challenges in the design and analysis of trials in global mental health research
 
 When evaluating interventions and programs in mental health research, a vast range of different trial designs are available. The final choice of design is based on a variety of factors including, but not limited to the nature of the intervention being evaluated, the research context, the primary research question and logistical and other related considerations. In this symposium, we will use ongoing and completed mental health studies to highlight features and challenges in several trial designs, including preference trials, individually-randomized group treatment trials and stepped wedge trials with the goal to engage in a discussion with the audience around what important features to pay attention to when designing such trials.
 
@@ -53,7 +53,7 @@ Chair and Discussant: [Elizabeth ("Liz") Turner](https://globalhealth.duke.edu/p
 | Design and analysis of individually randomized group treatment trials in mental health research | [John Gallis](https://globalhealth.duke.edu/people/gallis-john), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#design-and-analysis-of-individually-randomized-group-treatment-trials-in-mental-health-research) |
 | Time-varying treatment effects in mental health research | [Avi Kenny](https://globalhealth.duke.edu/people/kenny-avi), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#time-varying-treatment-effects-in-mental-health-research) |
 
-#### Centering adolescent mental health: Intervention research to maximize resonance and impact
+### Centering adolescent mental health: Intervention research to maximize resonance and impact
 
 Maeve Abstract
 
@@ -61,19 +61,9 @@ Chair and Discussant:
 
 | Title | Presenter | Abstract |
 |:--   |:--      |:--       |
+| | | 
 
-#### Understanding alcohol use and harm-reduction interventions in Northern Tanzania
-
-Maeve Abstract
-
-Chair and Discussant:
-
-| Title | Presenter | Abstract |
-|:--   |:--      |:--       |
-
-### Research Symposia Round 2
-
-#### Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South
+### Understanding alcohol use and harm-reduction interventions in Northern Tanzania
 
 Maeve Abstract
 
@@ -81,8 +71,11 @@ Chair and Discussant:
 
 | Title | Presenter | Abstract |
 |:--   |:--      |:--       |
+| | |
 
-#### Child and caregiver mental health: Global perspectives on risk and resilience
+## Research Symposia Round 2
+
+### Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South
 
 Maeve Abstract
 
@@ -90,3 +83,14 @@ Chair and Discussant:
 
 | Title | Presenter | Abstract |
 |:--   |:--      |:--       |
+| | |
+
+### Child and caregiver mental health: Global perspectives on risk and resilience
+
+Maeve Abstract
+
+Chair and Discussant:
+
+| Title | Presenter | Abstract |
+|:--   |:--      |:--       |
+| | |
