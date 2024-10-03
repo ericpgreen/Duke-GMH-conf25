@@ -2,9 +2,20 @@
 title: "Abstracts"
 ---
 
-#### [Christine Gray](https://globalhealth.duke.edu/people/gray-christine), DGHI, Center for Health Policy and Inequalities Research
+## Research Symposia Round 1
 
-*Addressing trauma in orphaned children in Kenya: From descriptive epidemiology to implementation science* \|
+### Features and challenges in the design and analysis of trials in global mental health research
 
-Abstract
+#### Design and analysis of preference trials in mental health research
+
+Preference trials are increasingly used in pragmatic trials in order to be able to understand how patient preferences for treatment affect treatment adherence and patient outcomes. This design can be particularly valuable in mental health research, where individual preferences and perceived acceptability of treatments (such as medication, psychotherapy, or behavioral practices) play a significant role in adherence and efficacy. This talk will explore the methodological rationale for using preference trials in mental health research and review important considerations for study design and analysis using real examples from previous preference-based mental health studies.
+
+#### Design and analysis of individually randomized group treatment trials in mental health research
+
+Individually randomized group treatment (IRGT) trials—where the intervention is implemented in groups in one or more arms of the trial—are common in mental health research. However, even studies where the same clinician delivers the intervention individually to multiple participants may be classified as IRGT trials.
+Ignoring the clustering of outcomes induced by the group structure can lead to an underpowered trial at the design phase and increased type I error at the analysis phase. In this talk, we review methods to ensure such trials are adequately designed and powered, and then discuss appropriate methods to analyze these trials, specifically using the Sauti ya Vijana trial in Tanzania as an example, focusing attention on trials with group treatment in only one study arm. Sauti ya Vijana is an intervention specifically targeting improved mental health among young people living with HIV, with a goal to increase uptake of antiretroviral therapy.
+
+#### Time-varying treatment effects in mental health research
+
+Whenever we estimate a treatment effect in a research study, we are either implicitly or explicitly making assumptions about how this treatment effect varies as a function of time. Furthermore, multiple time scales exist in research, including study time (time since the start of the study), exposure time (time since the start of an intervention), and subject time (a time scale with a subject-specific origin, such as age). In this talk, we briefly review these time scales, discuss how treatment effects may vary as a function of each scale, outline how effect summary measures can be defined when time-varying treatment effects are present, and discuss which summary measures are estimable for several different study designs.
 

@@ -4,15 +4,17 @@ title: "Sessions"
 
 ### Global Mental Health at Duke: Achievements and Opportunities
 
+Maeve: Need short summary
+
 +:----------+
 | [Eve Puffer](https://sites.globalhealth.duke.edu/evepuffer/), Director, Duke Center for Global Mental Health (DCGMH) |
 +------+
 | [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH |
 +------+
 
-Some text
-
 ### Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health
+
+Maeve: Need short summary
 
 +:----------+
 | Moderator: [Brandon Knettel](https://globalhealth.duke.edu/people/knettel-brandon), Associate Director, DCGMH |
@@ -26,54 +28,65 @@ Some text
 | Panelist: [Charles Muiruri](https://globalhealth.duke.edu/people/muiruri-charles), Population Health Sciences |
 +------+
 
-Some text
-
 ### Faculty Research Spotlights
 
-#### [Christine Gray](https://globalhealth.duke.edu/people/gray-christine), DGHI, Center for Health Policy and Inequalities Research
+Maeve: Need short summary
 
-*Addressing trauma in orphaned children in Kenya: From descriptive epidemiology to implementation science* |
+| Presenter | Title |
+|:--   |:--      |
+| [Christine Gray](https://globalhealth.duke.edu/people/gray-christine), DGHI, Center for Health Policy and Inequalities Research | Addressing trauma in orphaned children in Kenya: From descriptive epidemiology to implementation science | 
+| [Deborah Jenson](https://sites.fhi.duke.edu/healthhumanitieslab/team/deborah-jenson/), Department of Romance Studies | The birth of outpatient psychiatry in Louis Mars’ Haiti: Utopia and dystopia |
+| [Irene Felsman](https://globalhealth.duke.edu/people/felsman-irene), Duke University School of Nursing and [Thakur Mishra](https://cwsglobal.org/), Church World Service, Refugee Wellness Program Manager | Therapeutic storytelling with culturally diverse newcomer communities |
+| [David Eagle](https://globalhealth.duke.edu/people/eagle-david), Department of Sociology | When does difference do damage? Evidence from a study of clergy |
 
-[Abstract]({#gray})
-
-#### [Deborah Jenson](https://sites.fhi.duke.edu/healthhumanitieslab/team/deborah-jenson/), Department of Romance Studies
-
-*The birth of outpatient psychiatry in Louis Mars’ Haiti: Utopia and dystopia*
-
-Abstract
-
-#### [Irene Felsman](https://globalhealth.duke.edu/people/felsman-irene), Duke University School of Nursing and [Thakur Mishra](https://cwsglobal.org/), Church World Service, Refugee Wellness Program Manager
-
-*Therapeutic storytelling with culturally diverse newcomer communities*
-
-Abstract
-
-#### [David Eagle](https://globalhealth.duke.edu/people/eagle-david), Department of Sociology
-
-*When does difference do damage? Evidence from a study of clergy*
-
-Abstract
-
-### Research Symposia #1
+### Research Symposia Round 1
 
 #### Features and challenges in the design and analysis of trials in global mental health research
 
-Abstract
+When evaluating interventions and programs in mental health research, a vast range of different trial designs are available. The final choice of design is based on a variety of factors including, but not limited to the nature of the intervention being evaluated, the research context, the primary research question and logistical and other related considerations. In this symposium, we will use ongoing and completed mental health studies to highlight features and challenges in several trial designs, including preference trials, individually-randomized group treatment trials and stepped wedge trials with the goal to engage in a discussion with the audience around what important features to pay attention to when designing such trials.
+
+Chair and Discussant: [Elizabeth ("Liz") Turner](https://globalhealth.duke.edu/people/turner-elizabeth), Associate Professor of Biostatistics & Global Health, Department of Biostatistics & Bioinformatics and DGHI
+
+| Title | Presenter | Abstract |
+|:--   |:--      |:--       |
+| Design and analysis of preference trials in mental health research | [Alyssa Platt](https://globalhealth.duke.edu/people/platt-alyssa), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#design-and-analysis-of-preference-trials-in-mental-health-research) |
+| Design and analysis of individually randomized group treatment trials in mental health research | [John Gallis](https://globalhealth.duke.edu/people/gallis-john), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#design-and-analysis-of-individually-randomized-group-treatment-trials-in-mental-health-research) |
+| Time-varying treatment effects in mental health research | [Avi Kenny](https://globalhealth.duke.edu/people/kenny-avi), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#time-varying-treatment-effects-in-mental-health-research) |
 
 #### Centering adolescent mental health: Intervention research to maximize resonance and impact
 
-Abstract
+Maeve Abstract
+
+Chair and Discussant:
+
+| Title | Presenter | Abstract |
+|:--   |:--      |:--       |
 
 #### Understanding alcohol use and harm-reduction interventions in Northern Tanzania
 
-Abstract
+Maeve Abstract
 
-### Research Symposia #2
+Chair and Discussant:
+
+| Title | Presenter | Abstract |
+|:--   |:--      |:--       |
+
+### Research Symposia Round 2
 
 #### Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South
 
-Abstract
+Maeve Abstract
+
+Chair and Discussant:
+
+| Title | Presenter | Abstract |
+|:--   |:--      |:--       |
 
 #### Child and caregiver mental health: Global perspectives on risk and resilience
 
-Abstract
+Maeve Abstract
+
+Chair and Discussant:
+
+| Title | Presenter | Abstract |
+|:--   |:--      |:--       |
