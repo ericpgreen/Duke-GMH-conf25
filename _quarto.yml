@@ -4,6 +4,8 @@ project:
 website:
   title: "Global Mental Health Conference"
   navbar:
+    background: '#001a57'
+    foreground: '#ffffff'
     left:
       - href: index.qmd
         text: Home
@@ -17,9 +19,20 @@ website:
         text: Symposia Round 2
       - href: authors.qmd
         text: Authors
-    right:
+    pinned: true
+  page-footer:
+    background: light
+    center:
       - href: https://globalhealth.duke.edu/center-global-mental-health
         text: Duke Center for Global Mental Health
+    right:
+      - icon: x
+        href: https://X.com/Duke_GMH
+      - icon: instagram
+        href: https://www.instagram.com/duke_gmh/
+  twitter-card:
+    site: "@Duke_GMH"
+  open-graph: true
 
 format:
   html:
