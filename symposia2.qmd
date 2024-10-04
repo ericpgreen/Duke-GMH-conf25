@@ -23,6 +23,8 @@ Discussant: [Susan Reif](https://globalhealth.duke.edu/people/reif-susan), Resea
 | Mental Health of Indigenous Gay and Bisexual Men in Guatemala: a qualitative study                                                                                                    | Lucia Weyer Johnson   |
 | Enhancing Peer Support in Medical Spaces for Substance Dependency and Harm Reduction Among LGBTQIA+ Individuals in the South                                                          | Jemm Merritt          |
 
+: {tbl-colwidths="[75, 25]"}
+
 ## Child and caregiver mental health: Global perspectives on risk and resilience
 
 **6th floor**
@@ -37,3 +39,5 @@ Chair and Discussant: [Gayane A. Baziyants](https://sanford.duke.edu/profile/gay
 | Does prior maternal adversity exacerbate the mental health effects of external shocks? Evidence from mothers and children in rural Pakistan                  | Kaitlin Shartle     |
 | Coping Together, a Brief Family-Based Intervention, for Latinx Immigrants and the Importance of Community-Defined Adaptations of Mental Health Interventions | Rafaella Zanatti    |
 | Challenges in inclusive education for students with autism: The critical role of family engagement in a southern Brazilian city                              |                     |
+
+: {tbl-colwidths="[75, 25]"}

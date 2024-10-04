@@ -20,6 +20,8 @@ Chair and Discussant: [Elizabeth ("Liz") Turner](https://globalhealth.duke.edu/p
 | Design and analysis of individually randomized group treatment trials in mental health research | John Gallis  |
 | Time-varying treatment effects in mental health research                                        | Avi Kenny    |
 
+: {tbl-colwidths="[75, 25]"}
+
 ## Centering adolescent mental health: Intervention research to maximize resonance and impact
 
 **4th floor, Classroom 4067**
@@ -34,6 +36,8 @@ Chair and Discussant: [Allison McCord Stafford](https://medschool.duke.edu/profi
 | Effect of a school-based resilience training program on the psychosocial health outcomes of vulnerable adolescents in Oyo State, Nigeria      | Akinrinde Deborah                                      |
 | Addressing the Global Mental Health Care Gap for Adolescents Living with HIV: Transferrable Lessons South to North                            | Dorothy Dow                                            |
 | Empowering Families Coping with Pediatric Sickle Cell Disease in Kenya: A Qualitative Study to Inform a Multi-Level Psychosocial Intervention | Yvonne A. Ochieng                                      |
+
+: {tbl-colwidths="[75, 25]"}
 
 ## Understanding alcohol use and harm-reduction interventions in Northern Tanzania
 
@@ -51,3 +55,5 @@ Discussant: [Joao Ricardo Nickenig Vissoci](https://globalhealth.duke.edu/people
 | PRICE-Alcohol: Planning the Regional Implementation of a Culturally Adapted Brief Intervention for Alcohol for Tanzanian Emergency Departments                                                                                                  | ⁠⁠Ashley Phillips            |
 | Exploring the Mediating Effects of Depression on the Effectiveness of a Brief Negotiational Intervention in Reducing Harmful Alcohol Use in Moshi, Tanzania: A Mixed Method Study                                                               | ⁠⁠Mia Buono & Winfrida Mwita |
 | The Burden of Generational Harm due to Alcohol use in Tanzania: a mixed method study of pregnant women                                                                                                                                          | ⁠⁠Alena Pauley               |
+
+: {tbl-colwidths="[75, 25]"}

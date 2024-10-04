@@ -52,6 +52,8 @@ Choose from 1 of 3 of the following concurrent sessions.
 | [Centering adolescent mental health: Intervention research to maximize resonance and impact](symposia1.html#centering-adolescent-mental-health-intervention-research-to-maximize-resonance-and-impact)        | 4th floor, Classroom 4067 |
 | [Understanding alcohol use and harm-reduction interventions in Northern Tanzania](symposia1.html#understanding-alcohol-use-and-harm-reduction-interventions-in-northern-tanzania)                             | 4th floor, Classroom 4030 |
 
+: {tbl-colwidths="[75, 25]"}
+
 ## Research Symposia Round 2
 
 **2:45-3:45pm**
@@ -62,3 +64,5 @@ Choose from 1 of 2 of the following concurrent sessions.
 |:-----------------------------------|:-----------------------------------|
 | [Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South](symposia2.html#addressing-mental-health-in-the-community-implementation-of-research-and-practice-from-the-southern-us-to-the-global-south) | 4th floor, Classroom 4067 |
 | [Child and caregiver mental health: Global perspectives on risk and resilience](symposia2.html#child-and-caregiver-mental-health-global-perspectives-on-risk-and-resilience) | 6th floor                 |
+
+: {tbl-colwidths="[75, 25]"}
