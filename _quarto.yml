@@ -15,6 +15,9 @@ website:
         text: Symposia Round 1
       - href: symposia2.qmd
         text: Symposia Round 2
+    right:
+      - href: https://globalhealth.duke.edu/center-global-mental-health
+        text: Duke Center for Global Mental Health
 
 format:
   html:
