@@ -4,31 +4,37 @@ title: "Sessions"
 
 ## Global Mental Health at Duke: Achievements and Opportunities
 
-The opening session will welcome participants and introduce the Duke Center for Global Mental Health. The Center serves as a hub for interdisciplinary collaboration, connecting faculty and researchers at Duke who are focused on addressing global and local mental health disparities. Attendees will learn about the Center’s commitment to integrating mental health across diverse fields such as psychology, psychiatry, policy, and public health. The session will highlight both the Center’s research and training initiatives and the opportunities for collaboration within the global mental health community at Duke.
+**9:00-9:30am**
+
+The opening session will welcome participants and introduce the Duke Center for Global Mental Health. The Center serves as a hub for interdisciplinary collaboration, connecting faculty, trainees, and partners who are focused on addressing global and local mental health disparities. Attendees will learn about the Center’s commitment to integrating mental health across diverse fields. The session will highlight both the Center’s research and training initiatives and the opportunities for collaboration within the global mental health community at Duke.
 
 +:----------+
 | [Eve Puffer](https://sites.globalhealth.duke.edu/evepuffer/), Director, Duke Center for Global Mental Health (DCGMH) |
 +------+
-| [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH |
+| [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH
 +------+
 
 ## Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health
 
+**9:30-10:30am**
+
 This panel will feature diverse insights from leaders across Duke and beyond. Speakers from the Duke Center for Global Mental Health, Sanford School of Public Policy, Duke Global Health Innovation Center, El Futuro, and Duke Population Health Sciences will share their unique approaches to addressing mental health challenges. The discussion will explore how research, policy, and community-based practices intersect to improve mental health care both locally and globally. 
 
 +:----------+
-| Moderator: [Brandon Knettel](https://globalhealth.duke.edu/people/knettel-brandon), Associate Director, DCGMH |
+| Moderator: [Brandon Knettel](https://globalhealth.duke.edu/people/knettel-brandon), Associate Director, DCGMH 
 +------+
-| Panelist: [Kate Whetten](https://globalhealth.duke.edu/people/whetten-kathryn), Sanford School of Public Policy |
+| Panelist: [Kate Whetten](https://globalhealth.duke.edu/people/whetten-kathryn), Sanford School of Public Policy 
 +------+
-| Panelist: [Krishna Udayakumar](https://dukeghic.org/people/krishna-udayakumar/), Duke Global Health Innovation Center |
+| Panelist: [Krishna Udayakumar](https://dukeghic.org/people/krishna-udayakumar/), Duke Global Health Innovation Center 
 +------+
-| Panelist: [Luke Smith](https://elfuturo-nc.org/people/david-lucas-luke-smith/), El Futuro |
+| Panelist: [Luke Smith](https://elfuturo-nc.org/people/david-lucas-luke-smith/), El Futuro 
 +------+
 | Panelist: [Charles Muiruri](https://globalhealth.duke.edu/people/muiruri-charles), Population Health Sciences |
 +------+
 
 ## Faculty Research Spotlights
+
+**11:00-12:00pm**
 
 This conference session will spotlight the innovative work of faculty members from the Center for Health Policy and Inequalities Research, Department of Romance Studies, School of Nursing, Department of Sociology, and Church World Service. Presentations will cover a range of global topics, including trauma interventions for orphaned children in Kenya, the development of outpatient psychiatry in Haiti, therapeutic storytelling with diverse newcomer communities, and the impact of differences in clergy practices. Together, these talks will provide valuable insights into the intersections of culture, mental health, and healing across various global contexts.
 
@@ -41,56 +47,23 @@ This conference session will spotlight the innovative work of faculty members fr
 
 ## Research Symposia Round 1
 
-### Features and challenges in the design and analysis of trials in global mental health research
+**1:30-2:30pm**
 
-When evaluating interventions and programs in mental health research, a vast range of different trial designs are available. The final choice of design is based on a variety of factors including, but not limited to the nature of the intervention being evaluated, the research context, the primary research question and logistical and other related considerations. In this symposium, we will use ongoing and completed mental health studies to highlight features and challenges in several trial designs, including preference trials, individually-randomized group treatment trials and stepped wedge trials with the goal to engage in a discussion with the audience around what important features to pay attention to when designing such trials.
+Choose from 1 of 3 of the following concurrent sessions.
 
-Chair and Discussant: [Elizabeth ("Liz") Turner](https://globalhealth.duke.edu/people/turner-elizabeth), Associate Professor of Biostatistics & Global Health, Department of Biostatistics & Bioinformatics and DGHI
-
-| Title | Presenter | Abstract |
-|:--   |:--      |:--       |
-| Design and analysis of preference trials in mental health research | [Alyssa Platt](https://globalhealth.duke.edu/people/platt-alyssa), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#design-and-analysis-of-preference-trials-in-mental-health-research) |
-| Design and analysis of individually randomized group treatment trials in mental health research | [John Gallis](https://globalhealth.duke.edu/people/gallis-john), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#design-and-analysis-of-individually-randomized-group-treatment-trials-in-mental-health-research) |
-| Time-varying treatment effects in mental health research | [Avi Kenny](https://globalhealth.duke.edu/people/kenny-avi), Department of Biostatistics & Bioinformatics and DGHI | [Link](abstracts.html#time-varying-treatment-effects-in-mental-health-research) |
-
-### Centering adolescent mental health: Intervention research to maximize resonance and impact
-
-Maeve Abstract
-
-Chair and Discussant:
-
-| Title | Presenter | Abstract |
-|:--   |:--      |:--       |
-| | | 
-
-### Understanding alcohol use and harm-reduction interventions in Northern Tanzania
-
-Maeve Abstract
-
-Chair and Discussant:
-
-| Title | Presenter | Abstract |
-|:--   |:--      |:--       |
-| | |
+| Symposium | Location |
+|:--   |:--      |
+| [Features and challenges in the design and analysis of trials in global mental health research](symposia1.html#features-and-challenges-in-the-design-and-analysis-of-trials-in-global-mental-health-research) | 6th floor |
+| [Centering adolescent mental health: Intervention research to maximize resonance and impact](symposia1.html#centering-adolescent-mental-health-intervention-research-to-maximize-resonance-and-impact) | 4th floor, Classroom 4067 |
+| [Understanding alcohol use and harm-reduction interventions in Northern Tanzania](symposia1.html#understanding-alcohol-use-and-harm-reduction-interventions-in-northern-tanzania) | 4th floor, Classroom 4030 |
 
 ## Research Symposia Round 2
 
-### Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South
+**2:45-3:45pm**
 
-Maeve Abstract
+Choose from 1 of 2 of the following concurrent sessions.
 
-Chair and Discussant:
-
-| Title | Presenter | Abstract |
-|:--   |:--      |:--       |
-| | |
-
-### Child and caregiver mental health: Global perspectives on risk and resilience
-
-Maeve Abstract
-
-Chair and Discussant:
-
-| Title | Presenter | Abstract |
-|:--   |:--      |:--       |
-| | |
+| Symposium | Location |
+|:--   |:--      |
+| [Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South](symposia2.html#addressing-mental-health-in-the-community-implementation-of-research-and-practice-from-the-southern-us-to-the-global-south) | 4th floor, Classroom 4067 |
+| [Child and caregiver mental health: Global perspectives on risk and resilience](symposia2.html#child-and-caregiver-mental-health-global-perspectives-on-risk-and-resilience) | 6th floor |

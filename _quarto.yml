@@ -9,6 +9,12 @@ website:
         text: Home
       - href: schedule.qmd
         text: Schedule
+      - href: sessions.qmd
+        text: Sessions Overview
+      - href: symposia1.qmd
+        text: Symposia Round 1
+      - href: symposia2.qmd
+        text: Symposia Round 2
 
 format:
   html:
