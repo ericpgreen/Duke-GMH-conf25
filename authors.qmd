@@ -2,7 +2,7 @@
 title: "Authors"
 ---
 
-**Suggested Citation Style:** Platt, A. (2024, October 8). Design and analysis of preference trials in mental health research [Conference presentation]. Duke Global Mental Health Conference 2024, Durham, NC, United States.
+**Suggested Citation Style:** Platt, A. (2024, October 8). *Design and analysis of preference trials in mental health research* [Conference presentation]. Duke Global Mental Health Conference 2024, Durham, NC, United States.
 
 Platt, A. Design and analysis of preference trials in mental health research.
 
