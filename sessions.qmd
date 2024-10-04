@@ -4,7 +4,7 @@ title: "Sessions"
 
 ## Global Mental Health at Duke: Achievements and Opportunities
 
-Maeve: Need short summary
+The opening session will welcome participants and introduce the Duke Center for Global Mental Health. The Center serves as a hub for interdisciplinary collaboration, connecting faculty and researchers at Duke who are focused on addressing global and local mental health disparities. Attendees will learn about the Center’s commitment to integrating mental health across diverse fields such as psychology, psychiatry, policy, and public health. The session will highlight both the Center’s research and training initiatives and the opportunities for collaboration within the global mental health community at Duke.
 
 +:----------+
 | [Eve Puffer](https://sites.globalhealth.duke.edu/evepuffer/), Director, Duke Center for Global Mental Health (DCGMH) |
