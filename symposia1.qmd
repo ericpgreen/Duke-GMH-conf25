@@ -8,7 +8,7 @@ Choose from 1 of 3 of the following concurrent sessions.
 
 ## Features and challenges in the design and analysis of trials in global mental health research
 
-**6th floor**
+**6th floor** ([Main webinar Zoom](https://duke.zoom.us/j/97317760950))
 
 When evaluating interventions and programs in mental health research, a vast range of different trial designs are available. The final choice of design is based on a variety of factors including, but not limited to the nature of the intervention being evaluated, the research context, the primary research question and logistical and other related considerations. In this symposium, we will use ongoing and completed mental health studies to highlight features and challenges in several trial designs, including preference trials, individually-randomized group treatment trials and stepped wedge trials with the goal to engage in a discussion with the audience around what important features to pay attention to when designing such trials.
 
@@ -24,7 +24,7 @@ Chair and Discussant: [Elizabeth ("Liz") Turner](https://globalhealth.duke.edu/p
 
 ## Centering adolescent mental health: Intervention research to maximize resonance and impact
 
-**4th floor, Classroom 4067**
+**4th floor, Classroom 4067** ([Zoom](https://duke.zoom.us/j/92102615027?pwd=ejZhoJblb4Kd3eRUaJCOwumvGYfLqy.1))
 
 This symposium features three talks addressing mental health challenges among vulnerable adolescents in different global contexts. The first presentation discusses an academic-community partnership in North Carolina to improve depression treatment for Latino/a/e adolescents by developing culturally appropriate training modules for healthcare providers. The second talk evaluates a school-based resilience program in Nigeria, showing reductions in anxiety and depression among vulnerable adolescents. The third presentation explores the mental health care gap for adolescents living with HIV in Tanzania and the U.S., highlighting peer-led interventions and lessons from low-income settings that could be adapted for higher-income contexts.
 
@@ -41,7 +41,7 @@ Chair and Discussant: [Allison McCord Stafford](https://medschool.duke.edu/profi
 
 ## Understanding alcohol use and harm-reduction interventions in Northern Tanzania
 
-**4th floor, Classroom 4030**
+**4th floor, Classroom 4030** ([Zoom](https://duke.zoom.us/j/94968400869?pwd=9jfVpAvaLu40K1TdW6UaSlQnPPHzNw.1))
 
 This symposium presents four talks addressing alcohol use and its associated health impacts in Tanzania. The first study evaluates a brief negotiational intervention with mobile health boosters, showing significant reductions in harmful alcohol use among emergency department patients. The second talk outlines a plan to implement this intervention regionally, adapting it to local contexts. The third study explores the relationship between depression and alcohol use, finding no mediation effect of depression but suggesting the intervention may improve both conditions over time. The final presentation highlights the growing issue of prenatal alcohol use in Tanzania, emphasizing the need for community education and pre-pregnancy interventions to address fetal alcohol spectrum disorders.
 

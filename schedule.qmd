@@ -4,21 +4,21 @@ title: "Schedule"
 
 | Time          | Session                                                                                        | Location           | Zoom |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| 8:30-9:00am   | Breakfast and Sign-in                                                                          | 6th floor          |      |
-| 9:00-9:30am   | Global Mental Health at Duke: Achievements and Opportunities                                   | 6th floor          |      |
-| 9:30-10:30am  | Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health | 6th floor          |      |
-| 10:30-10:50am | Mini Poster Session, Coffee, and Networking                                                    | 6th floor          |      |
-| 11:00-12:00pm | Faculty Research Spotlights                                                                    | 6th floor          |      |
-| 12:00-1:30pm  | Lunch and Poster Session                                                                       | 6th floor          |      |
+| 8:30-9:00am   | Breakfast and Sign-in                                                                          | 6th floor          | No zoom  |
+| 9:00-9:30am   | Global Mental Health at Duke: Achievements and Opportunities                                   | 6th floor          |  [Main webinar](https://duke.zoom.us/j/97317760950)    |
+| 9:30-10:30am  | Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health | 6th floor          |  [Main webinar](https://duke.zoom.us/j/97317760950)    |
+| 10:30-10:50am | Mini Poster Session, Coffee, and Networking                                                    | 6th floor          | No zoom  |
+| 11:00-12:00pm | Faculty Research Spotlights                                                                    | 6th floor          |  [Main webinar](https://duke.zoom.us/j/97317760950)    |
+| 12:00-1:30pm  | Lunch and Poster Session                                                                       | 6th floor          | No zoom |
 | 1:30-2:30pm   | **Research Symposia Round 1: Choose 1 of the following concurrent sessions**                                                                      | 4th and 6th floors |      |
-| 1:30-2:30pm   | 1A. Features and challenges in the design and analysis of trials in global mental health research                                                                      | 6th floor |      |
-| 1:30-2:30pm   | 1B. Centering adolescent mental health: Intervention research to maximize resonance and impact                                                                      | 4th floor, Classroom 4067 |      |
-| 1:30-2:30pm   | 1C. Understanding alcohol use and harm-reduction interventions in Northern Tanzania                                                                      | 4th floor, Classroom 4030 |      |
+| 1:30-2:30pm   | 1A. Features and challenges in the design and analysis of trials in global mental health research                                                                      | 6th floor | [Main webinar](https://duke.zoom.us/j/97317760950)     |
+| 1:30-2:30pm   | 1B. Centering adolescent mental health: Intervention research to maximize resonance and impact                                                                      | 4th floor, Classroom 4067 | [Zoom](https://duke.zoom.us/j/92102615027?pwd=ejZhoJblb4Kd3eRUaJCOwumvGYfLqy.1)      |
+| 1:30-2:30pm   | 1C. Understanding alcohol use and harm-reduction interventions in Northern Tanzania                                                                      | 4th floor, Classroom 4030 | [Zoom](https://duke.zoom.us/j/94968400869?pwd=9jfVpAvaLu40K1TdW6UaSlQnPPHzNw.1)      |
 | 2:45-3:45pm   | **Research Symposia Round 2: Choose 1 of the following concurrent sessions**                                                                     | 4th and 6th floors |      |
-| 2:45-3:45pm   | 2A. Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South                                                                      | 4th floor, Classroom 4067 |      |
-| 2:45-3:45pm   | 2B. Child and caregiver mental health: Global perspectives on risk and resilience                                                                      | 6th floor |      |
-| 3:45-4:15pm   | Snacks, poster session, and networking                                                         | 6th floor          |      |
-| 4:15-4:30pm   | Student Poster Awards                                                                          | 6th floor          |      |
-| 4:30-5:00pm   | Participant Reflections & Discussion: Next Steps for the Duke Center for Global Mental Health  | 6th floor          |      |
+| 2:45-3:45pm   | 2A. Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South                                                                      | 4th floor, Classroom 4067 |  [Zoom](https://duke.zoom.us/j/95910418787?pwd=osawmP4ElukBanGJ4ILnXneNYntecN.1)    |
+| 2:45-3:45pm   | 2B. Child and caregiver mental health: Global perspectives on risk and resilience                                                                      | 6th floor | [Main webinar](https://duke.zoom.us/j/97317760950)     |
+| 3:45-4:15pm   | Snacks, poster session, and networking                                                         | 6th floor          | No zoom     |
+| 4:15-4:30pm   | Student Poster Awards                                                                          | 6th floor          |  No zoom    |
+| 4:30-5:00pm   | Participant Reflections & Discussion: Next Steps for the Duke Center for Global Mental Health  | 6th floor          |  [Main webinar](https://duke.zoom.us/j/97317760950)    |
 
-: {tbl-colwidths="[10, 65, 20, 5]" .striped .hover}
+: {tbl-colwidths="[10, 60, 15, 15]" .striped .hover}
