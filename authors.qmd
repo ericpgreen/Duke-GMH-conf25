@@ -2,7 +2,7 @@
 title: "Authors"
 ---
 
-**Suggested Citation Style:** Platt, A. (2024, October 8). *Design and analysis of preference trials in mental health research* [Conference presentation]. Duke Global Mental Health Conference 2024, Durham, NC, United States.
+**Suggested Citation Style:** Platt, A. (2024, October 8). *Design and analysis of preference trials in mental health research* \[Conference presentation\]. Duke Global Mental Health Conference 2024, Durham, NC, United States.
 
 Platt, A. Design and analysis of preference trials in mental health research.
 
@@ -41,3 +41,5 @@ Shartle, K., Maselko, J., Escobar Carias, M. S., & Baranov, V. Does prior matern
 Zanatti, R., Salm, M. F., Alcantar Magana, A., Puffer, E. S., & Nagy, G. Coping Together, a Brief Family-Based Intervention, for Latinx Immigrants and the Importance of Community-Defined Adaptations of Mental Health Interventions.
 
 Kuniyoshi de Lara, D., Teixeira, T. M., Nascimento de Oliveira, N., Pereira, N. D., & Fleig Dal Forno, L. Challenges in inclusive education for students with autism: The critical role of family engagement in a southern Brazilian city.
+
+Hock, R. S., Williams, K. E., Bryce, C. P., Rabinowitz, A. G., & Galler, J. R. Intergenerational childhood trauma: patterns by subtype across two generations in a longitudinal Barbados cohort.

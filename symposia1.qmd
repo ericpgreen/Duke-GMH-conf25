@@ -19,6 +19,7 @@ Chair and Discussant: [Elizabeth ("Liz") Turner](https://globalhealth.duke.edu/p
 | Design and analysis of preference trials in mental health research                              | Alyssa Platt |
 | Design and analysis of individually randomized group treatment trials in mental health research | John Gallis  |
 | Time-varying treatment effects in mental health research                                        | Avi Kenny    |
+| Addressing the Global Mental Health Care Gap for Adolescents Living with HIV: Transferrable Lessons South to North                            | Dorothy Dow                                            |
 
 : {tbl-colwidths="[75, 25]"}
 
@@ -34,8 +35,9 @@ Chair and Discussant: [Allison McCord Stafford](https://medschool.duke.edu/profi
 |:-----------------------------------|:-----------------------------------|
 | An Academic-Community Partnership to Address Inequities in Depression among Latino/a/e Adolescents in North Carolina                          | Milani Patel, Carmen Rauh, and Allison McCord Stafford |
 | Effect of a school-based resilience training program on the psychosocial health outcomes of vulnerable adolescents in Oyo State, Nigeria      | Akinrinde Deborah                                      |
-| Addressing the Global Mental Health Care Gap for Adolescents Living with HIV: Transferrable Lessons South to North                            | Dorothy Dow                                            |
+| Intergenerational childhood trauma: patterns by subtype across two generations in a longitudinal Barbados cohort | Rebecca S. Hock |
 | Empowering Families Coping with Pediatric Sickle Cell Disease in Kenya: A Qualitative Study to Inform a Multi-Level Psychosocial Intervention | Yvonne A. Ochieng                                      |
+
 
 : {tbl-colwidths="[75, 25]"}
 
