@@ -18,7 +18,6 @@ title: "Schedule"
 | 2:45-3:45pm   | 2A. Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South                                                                      | 4th floor, Classroom 4067 |  [Zoom](https://duke.zoom.us/j/95910418787?pwd=osawmP4ElukBanGJ4ILnXneNYntecN.1)    |
 | 2:45-3:45pm   | 2B. Child and caregiver mental health: Global perspectives on risk and resilience                                                                      | 6th floor | [Main webinar](https://duke.zoom.us/j/97317760950)     |
 | 3:45-4:15pm   | Snacks, poster session, and networking                                                         | 6th floor          | No zoom     |
-| 4:15-4:30pm   | Student Poster Awards                                                                          | 6th floor          |  No zoom    |
-| 4:30-5:00pm   | Participant Reflections & Discussion: Next Steps for the Duke Center for Global Mental Health  | 6th floor          |  [Main webinar](https://duke.zoom.us/j/97317760950)    |
+| 4:30-5:00pm   | Student Poster Awards & Participant Reflections & Discussion: Next Steps for the Duke Center for Global Mental Health  | 6th floor          |  [Main webinar](https://duke.zoom.us/j/97317760950)    |
 
 : {tbl-colwidths="[10, 60, 15, 15]" .striped .hover}
