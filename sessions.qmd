@@ -15,7 +15,7 @@ The opening session will welcome participants and introduce the Duke Center for 
 
 ## Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health
 
-**9:30-10:30am** ([Main webinar](https://duke.zoom.us/j/97317760950))
+**9:30-10:30am** (Link expired)
 
 This panel will feature diverse insights from leaders across Duke and beyond. Speakers from the Duke Center for Global Mental Health, Sanford School of Public Policy, Duke Global Health Innovation Center, El Futuro, and Duke Population Health Sciences will share their unique approaches to addressing mental health challenges. The discussion will explore how research, policy, and community-based practices intersect to improve mental health care both locally and globally.
 
@@ -29,7 +29,7 @@ This panel will feature diverse insights from leaders across Duke and beyond. Sp
 
 ## Faculty Research Spotlights
 
-**11:00-12:00pm** ([Main webinar](https://duke.zoom.us/j/97317760950))
+**11:00-12:00pm** (Link expired)
 
 This conference session will spotlight the innovative work of faculty members from the Center for Health Policy and Inequalities Research, Department of Romance Studies, School of Nursing, Department of Sociology, and Church World Service. Presentations will cover a range of global topics, including trauma interventions for orphaned children in Kenya, the development of outpatient psychiatry in Haiti, therapeutic storytelling with diverse newcomer communities, and the wellbeing of clergy in North Carolina. Together, these talks will provide valuable insights into the intersections of culture, mental health, and healing across various global contexts.
 
@@ -48,9 +48,9 @@ Choose from 1 of 3 of the following concurrent sessions.
 
 | Symposium                                                                                                                                                                                                     | Location                  |
 |:-----------------------------------|:-----------------------------------|
-| [Features and challenges in the design and analysis of trials in global mental health research](symposia1.html#features-and-challenges-in-the-design-and-analysis-of-trials-in-global-mental-health-research) | 6th floor ([zoom](https://duke.zoom.us/j/97317760950))                 |
-| [Centering adolescent mental health: Intervention research to maximize resonance and impact](symposia1.html#centering-adolescent-mental-health-intervention-research-to-maximize-resonance-and-impact)        | 4th floor, Classroom 4067 ([zoom](https://duke.zoom.us/j/92102615027?pwd=ejZhoJblb4Kd3eRUaJCOwumvGYfLqy.1)) |
-| [Understanding alcohol use and harm-reduction interventions in Northern Tanzania](symposia1.html#understanding-alcohol-use-and-harm-reduction-interventions-in-northern-tanzania)                             | 4th floor, Classroom 4030 ([zoom](https://duke.zoom.us/j/94968400869?pwd=9jfVpAvaLu40K1TdW6UaSlQnPPHzNw.1)) |
+| [Features and challenges in the design and analysis of trials in global mental health research](symposia1.html#features-and-challenges-in-the-design-and-analysis-of-trials-in-global-mental-health-research) | 6th floor (Link expired)                 |
+| [Centering adolescent mental health: Intervention research to maximize resonance and impact](symposia1.html#centering-adolescent-mental-health-intervention-research-to-maximize-resonance-and-impact)        | 4th floor, Classroom 4067 ([video](https://duke.zoom.us/rec/share/4Ec4KcHPjLtUTle2nui8XI2Bn3bi1SgnuScNeP9SAD0klX9uqlRhCgm_Ru2DR3O7.runC2QE676B3_FxX)) |
+| [Understanding alcohol use and harm-reduction interventions in Northern Tanzania](symposia1.html#understanding-alcohol-use-and-harm-reduction-interventions-in-northern-tanzania)                             | 4th floor, Classroom 4030 ([video](https://duke.zoom.us/rec/share/UiKx7OGY5E5jd7t3C3P5txAjcE9LuBbL6vYp69QiW9jrBfx9Tei7VD8C7qPb6g8v.Q74gtAkITEj25jPL)) |
 
 : {tbl-colwidths="[75, 25]"}
 
@@ -62,7 +62,7 @@ Choose from 1 of 2 of the following concurrent sessions.
 
 | Symposium                                                                                                                                                                                                                                                                | Location                  |
 |:-----------------------------------|:-----------------------------------|
-| [Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South](symposia2.html#addressing-mental-health-in-the-community-implementation-of-research-and-practice-from-the-southern-us-to-the-global-south) | 4th floor, Classroom 4067 ([zoom](https://duke.zoom.us/j/95910418787?pwd=osawmP4ElukBanGJ4ILnXneNYntecN.1)) |
-| [Child and caregiver mental health: Global perspectives on risk and resilience](symposia2.html#child-and-caregiver-mental-health-global-perspectives-on-risk-and-resilience) | 6th floor ([zoom](https://duke.zoom.us/j/97317760950))                |
+| [Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South](symposia2.html#addressing-mental-health-in-the-community-implementation-of-research-and-practice-from-the-southern-us-to-the-global-south) | 4th floor, Classroom 4067 ([video](https://duke.zoom.us/rec/share/T2gA3o9-l6qlmUWQqQFx43Q5QkCtGyWmort4pXW_tv9UAR_txSFAPOv1CXj882nu.ARChIQQzGlszUONl)) |
+| [Child and caregiver mental health: Global perspectives on risk and resilience](symposia2.html#child-and-caregiver-mental-health-global-perspectives-on-risk-and-resilience) | 6th floor (Link expired)                |
 
 : {tbl-colwidths="[75, 25]"}
