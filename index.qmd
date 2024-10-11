@@ -3,7 +3,7 @@ title: "Duke Global Mental Health Conference 2024"
 subtitle: "Building a Global Mental Health Community: Research, Policy, and Practice Across Disciplines"
 ---
 
-![](poster.png){fig-align="center"}
+![Photo credit: Kacey Godwin](poster.png){fig-align="center"}
 
 On Tuesday, October 8, 2024, the [Duke Center for Global Mental Health](https://globalhealth.duke.edu/center-global-mental-health) held its inaugural annual conference, drawing over 125 faculty, trainees, and professionals committed to addressing mental health disparities both locally and globally. In honor of World Mental Health Month, the conference focused on the theme, 'Building a Global Mental Health Community: Research, Practice, and Policy Across Disciplines'.
 

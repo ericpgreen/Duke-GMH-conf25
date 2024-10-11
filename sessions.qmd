@@ -6,7 +6,7 @@ title: "Sessions"
 
 **9:00-9:30am** ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
 
-![](leadership.png){fig-align="center"}
+![Photo credit: Kacey Godwin](leadership.png){fig-align="center"}
 
 The opening session will welcome participants and introduce the Duke Center for Global Mental Health. The Center serves as a hub for interdisciplinary collaboration, connecting faculty, trainees, and partners who are focused on addressing global and local mental health disparities. Attendees will learn about the Center’s commitment to integrating mental health across diverse fields. The session will highlight both the Center’s research and training initiatives and the opportunities for collaboration within the global mental health community at Duke.
 
@@ -35,7 +35,7 @@ This panel will feature diverse insights from leaders across Duke and beyond. Sp
 
 **11:00-12:00pm** ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
 
-![](eve_panel.png){fig-align="center"}
+![Photo credit: Kacey Godwin](eve_panel.png){fig-align="center"}
 
 This conference session will spotlight the innovative work of faculty members from the Center for Health Policy and Inequalities Research, Department of Romance Studies, School of Nursing, Department of Sociology, and Church World Service. Presentations will cover a range of global topics, including trauma interventions for orphaned children in Kenya, the development of outpatient psychiatry in Haiti, therapeutic storytelling with diverse newcomer communities, and the wellbeing of clergy in North Carolina. Together, these talks will provide valuable insights into the intersections of culture, mental health, and healing across various global contexts.
 
