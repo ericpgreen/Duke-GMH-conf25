@@ -21,3 +21,4 @@ title: "Schedule"
 | 4:15-5:00pm   | Student Poster Awards & Participant Reflections & Discussion: Next Steps for the Duke Center for Global Mental Health  | 6th floor          |      |
 
 : {tbl-colwidths="[10, 60, 15, 15]" .striped .hover}
+

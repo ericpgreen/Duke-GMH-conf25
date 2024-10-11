@@ -3,7 +3,15 @@ title: "Duke Global Mental Health Conference 2024"
 subtitle: "Building a Global Mental Health Community: Research, Policy, and Practice Across Disciplines"
 ---
 
-The [Duke Center for Global Mental Health](https://globalhealth.duke.edu/center-global-mental-health) held its first Duke Global Mental Health Conference on October 8, 2024, in Trent Semans Center on Duke's campus. Our theme was: Building a Global Mental Health Community: Research, Policy, and Practice Across Disciplines. This one-day event brought together leaders, researchers, practitioners, and advocates from the Duke community and our partners around the world to share our work and ideas for working together.
+![](poster.png){fig-align="center"}
+
+On Tuesday, October 8, 2024, the [Duke Center for Global Mental Health](https://globalhealth.duke.edu/center-global-mental-health) held its inaugural annual conference, drawing over 125 faculty, trainees, and professionals committed to addressing mental health disparities both locally and globally. In honor of World Mental Health Month, the conference focused on the theme, 'Building a Global Mental Health Community: Research, Practice, and Policy Across Disciplines'.
+
+The event showcased Duke's collaborative potential, with attendees from diverse schools across the university, including Trinity College of Arts and Sciences, the School of Medicine, and the Sanford School of Public Policy—underscoring the transdisciplinary approach central to the Center's mission.
+
+The day included an interdisciplinary panel, plenary research presentations, and symposia addressing a range of topics, from adolescent mental health to community-based treatment implementation, and innovative research designs for global mental health trials. The conference also highlighted 30 poster presentations from undergraduate, graduate, and professional students, representing a broad range of departments at Duke.
+
+For those who could not attend or wish to revisit the sessions, recordings are now available.
 
 ## Key Details
 
@@ -12,7 +20,6 @@ The [Duke Center for Global Mental Health](https://globalhealth.duke.edu/center-
 | **When**    | October 8, 2024, 8:30am-5:00pm                                                                                  |     |
 | **Where**   | Trent Semans Center (6th floor) and virtual                                                                     |     |
 | **Parking** | [Directions](https://globalhealth.duke.edu/sites/default/files/event-attachments/directions-trent_semans_1.pdf) |     |
-| **Zoom**    | See recording links on Schedule                                                                                                |     |
 
 ## Register
 
