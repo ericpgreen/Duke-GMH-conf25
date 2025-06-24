@@ -3,9 +3,7 @@ title: "Sessions"
 ---
 ![Photo credit: Kacey Godwin](picsessions.png){fig-align="center"}
 
-## Global Mental Health at Duke: Achievements and Opportunities
-
-**9:00-9:30am** ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
+## Keynote Speakers
 
 ![Photo credit: Kacey Godwin](leadership.png){fig-align="center"}
 
@@ -15,22 +13,13 @@ The opening session will welcome participants and introduce the Duke Center for 
 |------------------------------------------------------------------------|
 | [Eve Puffer](https://sites.globalhealth.duke.edu/evepuffer/), Director, Duke Center for Global Mental Health (DCGMH) |
 | [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH                  |
+| [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH                  |
 
-## Panel: Perspectives From our Community; Research, Practice, and Policy in Global Mental Health
-
-**9:30-10:30am** ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
+## Poster Presentations
 
 ![](panel.png){fig-align="center"}
 
 This panel will feature diverse insights from leaders across Duke and beyond. Speakers from the Duke Center for Global Mental Health, Sanford School of Public Policy, Duke Global Health Innovation Center, El Futuro, and Duke Population Health Sciences will share their unique approaches to addressing mental health challenges. The discussion will explore how research, policy, and community-based practices intersect to improve mental health care both locally and globally.
-
-|                                                                                                                      |
-|------------------------------------------------------------------------|
-| Moderator: [Brandon Knettel](https://globalhealth.duke.edu/people/knettel-brandon), Associate Director, DCGMH        |
-| Panelist: [Kate Whetten](https://globalhealth.duke.edu/people/whetten-kathryn), Sanford School of Public Policy      |
-| Panelist: [Krishna Udayakumar](https://dukeghic.org/people/krishna-udayakumar/), Duke Global Health Innovation Cente |
-| Panelist: [Luke Smith](https://elfuturo-nc.org/people/david-lucas-luke-smith/), El Futuro                            |
-| Panelist: [Charles Muiruri](https://globalhealth.duke.edu/people/muiruri-charles), Population Health Sciences \|     |
 
 ## Faculty Research Spotlights
 
@@ -47,7 +36,7 @@ This conference session will spotlight the innovative work of faculty members fr
 | [Irene Felsman](https://globalhealth.duke.edu/people/felsman-irene), Duke University School of Nursing and [Thakur Mishra](https://cwsglobal.org/), Church World Service, Refugee Wellness Program Manager | Therapeutic storytelling with culturally diverse newcomer communities                                    |
 | [David Eagle](https://globalhealth.duke.edu/people/eagle-david), Department of Sociology                                                                                                                   | When does difference do damage? Evidence from a study of clergy                                          |
 
-## Research Symposia Round 1
+## Research Symposia
 
 **1:30-2:30pm**
 
@@ -60,16 +49,5 @@ Choose from 1 of 3 of the following concurrent sessions.
 | [Understanding alcohol use and harm-reduction interventions in Northern Tanzania](symposia1.html#understanding-alcohol-use-and-harm-reduction-interventions-in-northern-tanzania)                             | 4th floor, Classroom 4030 ([video](https://duke.zoom.us/rec/share/UiKx7OGY5E5jd7t3C3P5txAjcE9LuBbL6vYp69QiW9jrBfx9Tei7VD8C7qPb6g8v.Q74gtAkITEj25jPL)) |
 
 : {tbl-colwidths="[75, 25]"}
-
-## Research Symposia Round 2
-
-**2:45-3:45pm**
-
-Choose from 1 of 2 of the following concurrent sessions.
-
-| Symposium                                                                                                                                                                                                                                                                | Location                  |
-|:-----------------------------------|:-----------------------------------|
-| [Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South](symposia2.html#addressing-mental-health-in-the-community-implementation-of-research-and-practice-from-the-southern-us-to-the-global-south) | 4th floor, Classroom 4067 ([video](https://duke.zoom.us/rec/share/T2gA3o9-l6qlmUWQqQFx43Q5QkCtGyWmort4pXW_tv9UAR_txSFAPOv1CXj882nu.ARChIQQzGlszUONl)) |
-| [Child and caregiver mental health: Global perspectives on risk and resilience](symposia2.html#child-and-caregiver-mental-health-global-perspectives-on-risk-and-resilience) | 6th floor ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))                |
 
 : {tbl-colwidths="[75, 25]"}
