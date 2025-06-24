@@ -1,14 +1,12 @@
 ---
-title: "Symposia Round 1"
+title: "Symposia"
 ---
 
-**1:30-2:30pm**
-
-Choose from 1 of 3 of the following concurrent sessions.
+!(symposiapic.png){fig-align="center"}
 
 ## Features and challenges in the design and analysis of trials in global mental health research
 
-**6th floor** ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
+([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
 
 ![](s5.png){fig-align="center"}
 
@@ -27,7 +25,7 @@ Chair and Discussant: [Elizabeth ("Liz") Turner](https://globalhealth.duke.edu/p
 
 ## Centering adolescent mental health: Intervention research to maximize resonance and impact
 
-**4th floor, Classroom 4067** ([video](https://duke.zoom.us/rec/share/4Ec4KcHPjLtUTle2nui8XI2Bn3bi1SgnuScNeP9SAD0klX9uqlRhCgm_Ru2DR3O7.runC2QE676B3_FxX))
+([video](https://duke.zoom.us/rec/share/4Ec4KcHPjLtUTle2nui8XI2Bn3bi1SgnuScNeP9SAD0klX9uqlRhCgm_Ru2DR3O7.runC2QE676B3_FxX))
 
 ![](s3.png){fig-align="center"}
 
@@ -47,7 +45,7 @@ Chair and Discussant: [Allison McCord Stafford](https://medschool.duke.edu/profi
 
 ## Understanding alcohol use and harm-reduction interventions in Northern Tanzania
 
-**4th floor, Classroom 4030** ([video](https://duke.zoom.us/rec/share/UiKx7OGY5E5jd7t3C3P5txAjcE9LuBbL6vYp69QiW9jrBfx9Tei7VD8C7qPb6g8v.Q74gtAkITEj25jPL))
+([video](https://duke.zoom.us/rec/share/UiKx7OGY5E5jd7t3C3P5txAjcE9LuBbL6vYp69QiW9jrBfx9Tei7VD8C7qPb6g8v.Q74gtAkITEj25jPL))
 
 ![](s4.png){fig-align="center"}
 
