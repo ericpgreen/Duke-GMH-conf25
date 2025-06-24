@@ -63,3 +63,43 @@ Discussant: [Joao Ricardo Nickenig Vissoci](https://globalhealth.duke.edu/people
 | The Burden of Generational Harm due to Alcohol use in Tanzania: a mixed method study of pregnant women                                                                                                                                          | ⁠⁠Alena Pauley               |
 
 : {tbl-colwidths="[75, 25]"}
+
+## Addressing mental health in the community: Implementation of research and practice from the Southern US to the Global South
+
+([video](https://duke.zoom.us/rec/share/T2gA3o9-l6qlmUWQqQFx43Q5QkCtGyWmort4pXW_tv9UAR_txSFAPOv1CXj882nu.ARChIQQzGlszUONl))
+
+![](s2.png){fig-align="center"}
+
+A key objective of implementation science is increasing the accessibility and adoption of evidence-based practices and programs into health systems and communities. Mental health is increasingly recognized as both a negative health outcome and as a contributor to other negative health outcomes. Correspondingly, implementation studies may address mental health in different ways, ranging from screening to incorporating mental health into other programs to directly targeting mental health as a primary outcome. Importantly, a critical cross-cutting theme is engagement with the community at all stages of implementation. In this symposium, we will highlight different ways in which implementation science is addressing mental health in community-based settings, with focus on the role of community partnering and engagement at varying stages of implementation.
+
+Chair: [Christine L Gray](https://globalhealth.duke.edu/people/gray-christine), Assistant Research Professor, Center for Health Policy and Inequalities Research
+
+Discussant: [Susan Reif](https://globalhealth.duke.edu/people/reif-susan), Research Scholar, Center for Health Policy and Inequalities Research
+
+| Title                                                                                                                                                                                 | Presenter             |
+|:-----------------------------------|:-----------------------------------|
+| Community informed adaptation and implementation of a mental health and substance use screening and referral process in HIV Pre-exposure Prophylaxis (PrEP) care in the US Deep South | Susan Reif            |
+| Implementing positive youth development and sexuality education to address health disparities in rural North Carolina                                                                 | Genevieve (GV) Hunter |
+| Mental Health of Indigenous Gay and Bisexual Men in Guatemala: a qualitative study                                                                                                    | Lucia Weyer Johnson   |
+| Enhancing Peer Support in Medical Spaces for Substance Dependency and Harm Reduction Among LGBTQIA+ Individuals in the South                                                          | Jemm Merritt          |
+
+: {tbl-colwidths="[75, 25]"}
+
+## Child and caregiver mental health: Global perspectives on risk and resilience
+
+([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
+
+![](s1.png){fig-align="center"}
+
+This symposium features four studies addressing the intersection of family engagement and mental health across diverse contexts. The first presentation evaluates the Family Connects postnatal nurse program, demonstrating long-term mental health benefits for parents. The second study examines the impact of prior maternal adversity on mental health during COVID-19 in rural Pakistan, finding that pre-pandemic adversity increased vulnerability but did not exacerbate mental health outcomes. The third talk highlights the importance of culturally adapting the "Coping Together" intervention for Latinx immigrant families to address acculturation gaps and strengthen family dynamics. The final study explores the challenges of inclusive education for students with autism in Brazil, emphasizing the critical role of consistent family involvement in supporting both student development and educator well-being.
+
+Chair and Discussant: [Gayane A. Baziyants](https://sanford.duke.edu/profile/gayane-baziyants/), Ph.D. Candidate, Sanford School of Public Policy, Duke University
+
+| Title                                                                                                                                                        | Presenter           |
+|:-----------------------------------|:-----------------------------------|
+| Promoting Long-Term Parent and Caregiver Mental Health Through Universal Postnatal Nurse Home Visiting                                                       | Gayane A. Baziyants |
+| Does prior maternal adversity exacerbate the mental health effects of external shocks? Evidence from mothers and children in rural Pakistan                  | Kaitlin Shartle     |
+| Coping Together, a Brief Family-Based Intervention, for Latinx Immigrants and the Importance of Community-Defined Adaptations of Mental Health Interventions | Rafaella Zanatti    |
+| Challenges in inclusive education for students with autism: The critical role of family engagement in a southern Brazilian city                              |                     |
+
+: {tbl-colwidths="[75, 25]"}
