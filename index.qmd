@@ -3,7 +3,7 @@ title: "Duke Global Mental Health Conference 2025"
 subtitle: "Now More than Ever: Addressing the Global Imperative of Mental Health Equity"
 ---
 
-!(homepagepic.png){fig-align="center"}
+!(landingpagepic.png){fig-align="center"}
 
 On Tuesday, October 7, 2025, the Duke Center for Global Mental Health will host its 2nd Annual Conference, bringing together faculty, trainees, students, and professionals committed to addressing mental health disparities both locally and globally. Held in honor of World Mental Health Day, this year’s conference will center on the theme: Now More than Ever: Addressing the Global Imperative of Mental Health Equity.
 
