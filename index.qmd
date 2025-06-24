@@ -3,7 +3,7 @@ title: "Duke Global Mental Health Conference 2025"
 subtitle: "Now More than Ever: Addressing the Global Imperative of Mental Health Equity"
 ---
 
-![Photo credit: Kacey Godwin](homepagepic.png){fig-align="center"}
+!(homepagepic.png){fig-align="center"}
 
 On Tuesday, October 7, 2025, the Duke Center for Global Mental Health will host its 2nd Annual Conference, bringing together faculty, trainees, students, and professionals committed to addressing mental health disparities both locally and globally. Held in honor of World Mental Health Day, this year’s conference will center on the theme: Now More than Ever: Addressing the Global Imperative of Mental Health Equity.
 
@@ -23,15 +23,15 @@ The conference is free to attend and registration is now open. Applications are 
 
 [Registration](https://duke.qualtrics.com/jfe/form/SV_9tTSenmD4RZPEV0/)
 
-## Share
+## Submit an Abstract
 
-Use the hastag #dukegmh to share your experience on social media.
+[Abstract Submission](https://duke.qualtrics.com/jfe/form/SV_8wVjODV2odUrptk)
 
-## Instagram Recap of the Inaugural 2024 Duke Global Mental Health Conference
+## 2024 Conference Recap
 
 <iframe src="https://drive.google.com/file/d/1bKJJueY9BWpOe_2wfj63HyEUUx_hJPYK/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Upcoming Events
+## Conference Flier
 
 Click [here](https://duke.qualtrics.com/jfe/form/SV_5dQ6qk6lehpCpV4) to register for several exciting upcoming events, including:
 
