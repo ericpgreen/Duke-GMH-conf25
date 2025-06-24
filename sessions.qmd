@@ -5,49 +5,24 @@ title: "Sessions"
 
 ## Keynote Speakers
 
-![Photo credit: Kacey Godwin](leadership.png){fig-align="center"}
+![](keynotepic.png){fig-align="center"}
 
-The opening session will welcome participants and introduce the Duke Center for Global Mental Health. The Center serves as a hub for interdisciplinary collaboration, connecting faculty, trainees, and partners who are focused on addressing global and local mental health disparities. Attendees will learn about the Center’s commitment to integrating mental health across diverse fields. The session will highlight both the Center’s research and training initiatives and the opportunities for collaboration within the global mental health community at Duke.
+This year's keynote speakers include a diverse group of global mental health leaders and researchers: Kathleen Sikkema, Florence Jaguga, and Emily Cherenack.
 
 |                                                                                                                      |
 |------------------------------------------------------------------------|
-| [Eve Puffer](https://sites.globalhealth.duke.edu/evepuffer/), Director, Duke Center for Global Mental Health (DCGMH) |
-| [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH                  |
-| [Maeve Salm](https://globalhealth.duke.edu/people/salm-maeve), Clinical Research Coordinator, DCGMH                  |
+| [Kathleen Sikkema](https://www.publichealth.columbia.edu/profile/kathleen-sikkema-phd), Interim Dean, Columbia University Mailman School of Public Health |
+| [Florence Jaguga](https://www.aku.edu/bmi/about/Pages/florence-jaguga.aspx), Clinical Psychiatrist, Moi TEaching and Referral Hospital                  |
+| [Emily Cherenack](https://people.miami.edu/profile/12563b5f5fcd7090ca70916e7030e04e), Assistant Research Professor, DCGMH                  |
 
 ## Poster Presentations
 
-![](panel.png){fig-align="center"}
+![](poster.png){fig-align="center"}
 
-This panel will feature diverse insights from leaders across Duke and beyond. Speakers from the Duke Center for Global Mental Health, Sanford School of Public Policy, Duke Global Health Innovation Center, El Futuro, and Duke Population Health Sciences will share their unique approaches to addressing mental health challenges. The discussion will explore how research, policy, and community-based practices intersect to improve mental health care both locally and globally.
+Poster presentations will provide students, organizations, and researchers a chance to share their work and explore collaborations with others. All accepted presenters will have the opportunity to engage with conference attendees during a dedicated poster session. Submissions are open to individuals from Duke and beyond!
 
 ## Faculty Research Spotlights
 
-**11:00-12:00pm** ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
-
 ![Photo credit: Kacey Godwin](eve_panel.png){fig-align="center"}
 
-This conference session will spotlight the innovative work of faculty members from the Center for Health Policy and Inequalities Research, Department of Romance Studies, School of Nursing, Department of Sociology, and Church World Service. Presentations will cover a range of global topics, including trauma interventions for orphaned children in Kenya, the development of outpatient psychiatry in Haiti, therapeutic storytelling with diverse newcomer communities, and the wellbeing of clergy in North Carolina. Together, these talks will provide valuable insights into the intersections of culture, mental health, and healing across various global contexts.
-
-| Presenter                                                                                                                                                                                                  | Title                                                                                                    |
-|:-----------------------------------|:-----------------------------------|
-| [Christine Gray](https://globalhealth.duke.edu/people/gray-christine), DGHI, Center for Health Policy and Inequalities Research                                                                            | Addressing trauma in orphaned children in Kenya: From descriptive epidemiology to implementation science |
-| [Deborah Jenson](https://sites.fhi.duke.edu/healthhumanitieslab/team/deborah-jenson/), Department of Romance Studies                                                                                       | The birth of outpatient psychiatry in Louis Mars’ Haiti: Utopia and dystopia                             |
-| [Irene Felsman](https://globalhealth.duke.edu/people/felsman-irene), Duke University School of Nursing and [Thakur Mishra](https://cwsglobal.org/), Church World Service, Refugee Wellness Program Manager | Therapeutic storytelling with culturally diverse newcomer communities                                    |
-| [David Eagle](https://globalhealth.duke.edu/people/eagle-david), Department of Sociology                                                                                                                   | When does difference do damage? Evidence from a study of clergy                                          |
-
-## Research Symposia
-
-**1:30-2:30pm**
-
-Choose from 1 of 3 of the following concurrent sessions.
-
-| Symposium                                                                                                                                                                                                     | Location                  |
-|:-----------------------------------|:-----------------------------------|
-| [Features and challenges in the design and analysis of trials in global mental health research](symposia1.html#features-and-challenges-in-the-design-and-analysis-of-trials-in-global-mental-health-research) | 6th floor ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))                 |
-| [Centering adolescent mental health: Intervention research to maximize resonance and impact](symposia1.html#centering-adolescent-mental-health-intervention-research-to-maximize-resonance-and-impact)        | 4th floor, Classroom 4067 ([video](https://duke.zoom.us/rec/share/4Ec4KcHPjLtUTle2nui8XI2Bn3bi1SgnuScNeP9SAD0klX9uqlRhCgm_Ru2DR3O7.runC2QE676B3_FxX)) |
-| [Understanding alcohol use and harm-reduction interventions in Northern Tanzania](symposia1.html#understanding-alcohol-use-and-harm-reduction-interventions-in-northern-tanzania)                             | 4th floor, Classroom 4030 ([video](https://duke.zoom.us/rec/share/UiKx7OGY5E5jd7t3C3P5txAjcE9LuBbL6vYp69QiW9jrBfx9Tei7VD8C7qPb6g8v.Q74gtAkITEj25jPL)) |
-
-: {tbl-colwidths="[75, 25]"}
-
-: {tbl-colwidths="[75, 25]"}
+This conference session will spotlight the innovative work of faculty members from across Duke University. Presentations will cover a range of global topics that will provide valuable insights into the intersections of culture, mental health, and healing across various global contexts.
