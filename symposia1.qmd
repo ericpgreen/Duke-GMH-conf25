@@ -2,7 +2,7 @@
 title: "Symposia 2024"
 ---
 
-!(symposiapic.png){fig-align="center"}
+![](symposiapic.png){fig-align="center"}
 
 ## Features and challenges in the design and analysis of trials in global mental health research
 
