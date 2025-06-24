@@ -1,7 +1,7 @@
 ---
 title: "Sessions"
 ---
-![Photo credit: Kacey Godwin](picsessions.png){fig-align="center"}
+![](picsessions.png){fig-align="center"}
 
 ## Keynote Speakers
 
