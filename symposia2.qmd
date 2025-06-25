@@ -4,7 +4,7 @@ title: "Contact and Connect"
 
 ## Contact
 
-To learn more about the Center for Global Mental Health and its mission, please visit the [CGMH Webpage] (https://globalhealth.duke.edu/center-global-mental-health)
+To learn more about the Center for Global Mental Health and its mission, please visit the [CGMH Webpage](https://globalhealth.duke.edu/center-global-mental-health).
 
 For questions about the conference, please email:
 
