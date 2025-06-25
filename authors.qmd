@@ -2,7 +2,7 @@
 title: "Sponsors and Authors"
 ---
 
-!(sponsorspic.png){fig-align="center"}
+![](sponsorspic.png){fig-align="center"}
 
 ## 2025 Conference Sponsors
 
