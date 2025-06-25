@@ -14,11 +14,11 @@ website:
       - href: sessions.qmd
         text: Sessions Overview
       - href: symposia1.qmd
-        text: Symposia Round 1
+        text: Symposia 2024
       - href: symposia2.qmd
-        text: Symposia Round 2
+        text: Contact and Connect
       - href: authors.qmd
-        text: Authors
+        text: Sponsors and Authors
     pinned: true
   page-footer:
     background: light
