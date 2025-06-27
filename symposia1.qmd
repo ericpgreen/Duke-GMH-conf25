@@ -4,6 +4,10 @@ title: "Symposia 2024"
 
 ![](symposiapic.png){fig-align="center"}
 
+At our last annual conference,  symposia brought together researchers, practitioners, and community leaders to explore topics in global mental health. These sessions featured  presentations and discussions on themes such as adolescent mental health, alcohol-use disorder, and community-based interventions. Explore highlights and key takeaways from these impactful symposia below.
+
+Also, see a full recap of the 2024 conference on the [2024 conference website](https://duke-gmh-conf24.netlify.app/)!
+
 ## Features and challenges in the design and analysis of trials in global mental health research
 
 ([Video](https://duke.zoom.us/rec/share/L8mcwDank8aNTEKfFiqjyJDYTYoPoBK3vRTsNNh0bvCvH97skktES9ubue2AExbk.fgkxWll6bDYYbjFG))
