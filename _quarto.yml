@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Global Mental Health Conference"
+  title: "Global Mental Health Conference 2025"
   navbar:
     background: '#001a57'
     foreground: '#ffffff'
