@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-708f9025c5c719c17a16dcf247866d64.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,10 +69,14 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Schedule – Global Mental Health Conference">
+<meta property="og:description" content="">
+<meta property="og:image" content="schedulepic.png">
 <meta property="og:site_name" content="Global Mental Health Conference">
 <meta name="twitter:title" content="Schedule – Global Mental Health Conference">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="schedulepic.png">
 <meta name="twitter:site" content="@Duke_GMH">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -106,15 +110,15 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./symposia1.html"> 
-<span class="menu-text">Symposia Round 1</span></a>
+<span class="menu-text">Symposia 2024</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./symposia2.html"> 
-<span class="menu-text">Symposia Round 2</span></a>
+<span class="menu-text">Contact and Connect</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./authors.html"> 
-<span class="menu-text">Authors</span></a>
+<span class="menu-text">Sponsors and Authors</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -127,8 +131,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#conference-schedule" id="toc-conference-schedule" class="nav-link active" data-scroll-target="#conference-schedule">2024 Conference Schedule</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -152,6 +162,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="schedulepic.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Details for the schedule of the 2025 Conference are still being finalized and will be updated to the website shortly.</p>
+<section id="conference-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="conference-schedule">2024 Conference Schedule</h2>
 <table class="table-striped table-hover caption-top table">
 <colgroup>
 <col style="width: 10%">
@@ -262,6 +280,7 @@ ul.task-list li input[type="checkbox"] {
 </table>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -346,8 +365,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -458,7 +475,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
