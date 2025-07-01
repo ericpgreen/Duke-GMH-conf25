@@ -2,7 +2,7 @@
 title: "Symposia 2024"
 ---
 
-![](symposiapic.png){fig-align="center"}
+![](symposiapic.png){width=50% fig-align="center"}
 
 At our last annual conference,  symposia brought together researchers, practitioners, and community leaders to explore topics in global mental health. These sessions featured  presentations and discussions on themes such as adolescent mental health, alcohol-use disorder, and community-based interventions. Explore highlights and key takeaways from these impactful symposia below.
 
