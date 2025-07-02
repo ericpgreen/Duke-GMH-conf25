@@ -1,7 +1,7 @@
 ---
 title: "Sessions"
 ---
-![](picsessions.png){fig-align="center"}
+![](picsessions.png){width=50% fig-align="center"}
 
 ## Keynote Speakers
 
