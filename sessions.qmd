@@ -5,7 +5,7 @@ title: "Sessions"
 
 ## Keynote Speakers
 
-![](keynotepic.png){fig-align="center"}
+![](keynotepic.png){width=50% fig-align="center"}
 
 This year's keynote speakers include a diverse group of global mental health leaders and researchers: Kathleen Sikkema, Florence Jaguga, and Emily Cherenack.
 
