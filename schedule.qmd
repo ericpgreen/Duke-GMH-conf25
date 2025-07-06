@@ -2,7 +2,7 @@
 title: "Schedule"
 ---
 
-![](schedulepic.png){fig-align="center"}
+![](schedulepic.png){width=50% fig-align="center"}
 
 Details for the schedule of the 2025 Conference are still being finalized and will be updated to the website shortly.
 
